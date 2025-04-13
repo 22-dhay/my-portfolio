@@ -30,7 +30,7 @@ I'm a Computer Science and Artificial Intelligence specialist with a passion for
   - Sedentary patterns were more common on weekdays.
 - **Recommendations**:  
   Launch marketing campaigns during peak activity, promote weekend challenges, and target sedentary users with wellness content.
-- 🔗 [Project PDF](./projects/data-analysis/bellabeat-smart-usage/google_final_project.pdf)
+- 🔗 [Project PDF](./projects/data-analysis/project2/README.md)
 
 ---
 
