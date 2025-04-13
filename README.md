@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dhay!
 
-I'm a Computer Science and Artificial Intelligence student with a passion for creating impactful projects using AI and data analytics. This portfolio showcases some of my key projects in machine learning, computer vision, and data-driven decision-making.
+I'm a Computer Science and Artificial Intelligence specialist with a passion for creating impactful projects using AI and data analytics. This portfolio showcases some of my key projects in machine learning, computer vision, and data-driven decision-making.
 
 ---
 
@@ -36,9 +36,9 @@ I'm a Computer Science and Artificial Intelligence student with a passion for cr
 
 ## 🌐 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
-- 📫 [Email](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhay-alsuwat-09555b1bb/)
+- 🐙 [GitHub](https://github.com/22-dhay/my-portfolio)
+- 📫 [Email](dhayalsawat@gmail.com)
 
 ---
 
