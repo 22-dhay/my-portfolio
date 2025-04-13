@@ -38,7 +38,7 @@ I'm a Computer Science and Artificial Intelligence specialist with a passion for
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhay-alsuwat-09555b1bb/)
 - 🐙 [GitHub](https://github.com/22-dhay/my-portfolio)
-- 📫 [Email](dhayalsawat@gmail.com)
+- 📫 Email: dhayalsawat@gmail.com
 
 ---
 
