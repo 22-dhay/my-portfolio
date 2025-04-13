@@ -55,7 +55,7 @@ Preprocessing steps:
 
 ## 🖼️ Sample Output
 
-### 📋 Model Input Report Table  
+### 📋 Part of the model code output in classifying the images
 ![Report Table](./images/reports-table.png)
 
 ### 🧠 Model Predictions Example  
