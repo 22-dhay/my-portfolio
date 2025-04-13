@@ -56,10 +56,10 @@ Preprocessing steps:
 ## 🖼️ Sample Output
 
 ### 📋 Part of the model code output in classifying the images
-![Report Table](result1.png)
+![result](my-portfolio/result1.png)
 
 ### 🧠 Model Predictions Example  
-![Model Predictions](result2.png)
+![Model Predictions](my-portfolio/result2.png)
 
 
 
