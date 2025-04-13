@@ -13,7 +13,7 @@ I'm a Computer Science and Artificial Intelligence specialist with a passion for
   Python, TensorFlow, Keras, OpenCV, CNNs, Jupyter Notebook
 - **Results**:  
   Achieved 87% accuracy in classifying polluted vs. non-polluted scenes using transfer learning.
-- 🔗 [Project Details](projects/ai/project1/README.md)
+- 🔗 [Project Details](../projects/ai/project1/README.md)
 
 ---
 
