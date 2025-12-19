@@ -16,7 +16,17 @@ I'm a Computer Science and Artificial Intelligence specialist with a passion for
 - 🔗 [Project Details](./projects/ai/project1/README.md)
 
 ---
+### 📊 Customer Churn Analysis & Prediction
+- **Description:** Built an end-to-end machine learning pipeline to predict customer churn using Logistic Regression.
+- **Tech Stack:** Python, Pandas, Scikit-learn
+- **Highlights:**
+  - Data cleaning & preprocessing
+  - Handling missing values
+  - Feature scaling
+  - Model training & evaluation
+- 🔗 **Project Repository:** https://github.com/22-dhay/Git---Push
 
+----
 ## 📊 Data Analysis Projects
 
 ### 📈 Bellabeat Smart Device Usage Analysis
