@@ -140,15 +140,13 @@ AI automation project focused on building intelligent workflow systems that auto
 
 ---
 
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22-dhay&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=22-dhay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22-dhay&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22-dhay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
@@ -158,7 +156,7 @@ AI automation project focused on building intelligent workflow systems that auto
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=22-dhay&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=22-dhay&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
 
