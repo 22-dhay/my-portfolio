@@ -1,4 +1,17 @@
 # 👋 Hello, I'm Dhay Alsuwat!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%26+Data+Analytics+Enthusiast;Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Solutions;AI+Automation+%26+Data-Driven+Projects" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Dhay%20Alsuwat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning&descAlignY=58&descAlign=50"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=22-dhay&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+
+</p>
 
 **Computer Science & Artificial Intelligence Graduate | AI & Data Analytics Enthusiast | Problem Solver**
 
