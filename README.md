@@ -1,55 +1,181 @@
-# 👋 Hello, I'm Dhay!
+# 👋 Hello, I'm Dhay Alsuwat!
 
-I'm a Computer Science and Artificial Intelligence specialist with a passion for creating impactful projects using AI and data analytics. This portfolio showcases some of my key projects in machine learning, computer vision, and data-driven decision-making.
+**Computer Science & Artificial Intelligence Graduate | AI & Data Analytics Enthusiast | Problem Solver**
+
+I build data-driven solutions and intelligent applications that solve real-world problems.  
+This portfolio showcases my projects in Machine Learning, Data Analytics, AI Automation, Computer Vision, and Full-Stack Development.
+---
+
+## 🧠 About Me
+
+I'm a Computer Science and Artificial Intelligence graduate with hands-on experience in machine learning, computer vision, data analytics, dashboard development, and full-stack web applications.
+
+I’m passionate about using AI and data to build practical solutions, automate workflows, and support data-driven decision-making.
 
 ---
 
-## 🧠 AI & Machine Learning Projects
+## 🛠️ Tech Stack
 
-### 🔹 Automated Detection of Visual Pollution Using Drones
-- **Description**:  
-  This project focuses on detecting and classifying visual pollution (e.g., garbage, billboards, construction waste) in urban environments using drone-captured images. The system uses deep learning to analyze aerial imagery and identify affected areas.
-- **Technologies Used**:  
-  Python, TensorFlow, Keras, OpenCV, CNNs, Jupyter Notebook
-- **Results**:  
-  Achieved 87% accuracy in classifying polluted vs. non-polluted scenes using transfer learning.
-- 🔗 [Project Details](./projects/ai/project1/README.md)
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-### 📊 Customer Churn Analysis & Prediction
-- **Description:** Built an end-to-end machine learning pipeline to predict customer churn using Logistic Regression.
-- **Tech Stack:** Python, Pandas, Scikit-learn
-- **Highlights:**
-  - Data cleaning & preprocessing
-  - Handling missing values
-  - Feature scaling
-  - Model training & evaluation
-- 🔗 **Project Repository:** https://github.com/22-dhay/Git---Push
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Deep_Learning-blue?style=for-the-badge)
 
-----
-## 📊 Data Analysis Projects
+### 📊 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 📈 Bellabeat Smart Device Usage Analysis
-- **Description**:  
-  An exploratory data analysis project based on Fitbit smart device data, aimed at supporting Bellabeat—a wellness tech company for women—in improving their marketing and growth strategies.
-- **Tools & Technologies**:  
-  Google Sheets, SQL (BigQuery), Tableau, Data Visualization, EDA
-- **Key Insights**:  
-  - Most users were more active during mid-morning and weekends.  
-  - Positive correlation between steps taken and calories burned.  
-  - Sedentary patterns were more common on weekdays.
-- **Recommendations**:  
-  Launch marketing campaigns during peak activity, promote weekend challenges, and target sedentary users with wellness content.
-- 🔗 [Project PDF](./projects/data-analysis/project2/README.md)
+### 🌐 Web Development
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
-## 🌐 Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhay-alsuwat-09555b1bb/)
-- 🐙 [GitHub](https://github.com/22-dhay/my-portfolio)
-- 📫 dhayalsawat@gmail.com
+# 🚀 Featured Projects
 
 ---
+
+## 🧠 Automated Detection of Visual Pollution Using Drones
+
+### 📌 Overview
+AI-powered computer vision system designed to detect and classify visual pollution from drone-captured aerial imagery to support smart city and environmental monitoring initiatives.
+
+### ⚙️ Technologies Used
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- CNN
+- SQL
+- HTML/CSS
+
+### 🎯 Key Highlights
+- Built a deep learning model for image classification.
+- Developed a web platform integrated with SQL database management.
+- Applied computer vision techniques for environmental analysis.
+- Achieved strong classification performance using transfer learning.
+
+🔗 **Project Repository:**  
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+## 📊 Bellabeat Smart Device Usage Analysis
+
+### 📌 Overview
+Exploratory data analysis project focused on Fitbit smart device data to identify user behavior trends and support data-driven marketing decisions for Bellabeat.
+
+### ⚙️ Tools & Technologies
+- SQL (BigQuery)
+- Tableau
+- Google Sheets
+- Data Visualization
+- EDA
+
+### 📈 Key Insights
+- Users were more active during mid-morning and weekends.
+- Positive correlation between daily steps and calories burned.
+- Sedentary behavior increased during weekdays.
+
+### 💡 Recommendations
+- Launch marketing campaigns during peak activity periods.
+- Promote wellness challenges during weekends.
+- Target sedentary users with personalized wellness content.
+
+🔗 **Project PDF / Dashboard:**  
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+## 📉 Customer Churn Analysis & Prediction
+
+### 📌 Overview
+Machine learning project focused on predicting customer churn using classification algorithms and data preprocessing pipelines.
+
+### ⚙️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+### 🎯 Key Highlights
+- Built an end-to-end machine learning pipeline.
+- Performed preprocessing, feature engineering, and scaling.
+- Evaluated model performance using classification metrics.
+- Prepared deployment-ready preprocessing objects.
+
+🔗 **Project Repository:**  
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+## 🤖 AI Workflow Automation Assistant
+
+### 📌 Overview
+AI automation project focused on building intelligent workflow systems that automate repetitive business and administrative tasks using AI tools and LLM concepts.
+
+### ⚙️ Technologies & Concepts
+- AI Automation
+- Prompt Engineering
+- LLM Applications
+- Workflow Systems
+- Python
+
+### 🎯 Key Highlights
+- Designed AI-powered workflow automation concepts.
+- Explored AI agents and intelligent task automation.
+- Built productivity-focused automation workflows.
+
+🔗 **Project Repository:**  
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22-dhay&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22-dhay&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=22-dhay&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📬 Contact
+
+- 💼 LinkedIn:  
+https://www.linkedin.com/in/dhay-alsuwat-09555b1bb/
+
+- 💻 GitHub:  
+https://github.com/22-dhay/my-portfolio
+
+- 📧 Email:  
+dhayalsawat@gmail.com
+
+---
+
 
 > 🚀 This portfolio is continuously updated with new AI and data analytics projects. Stay tuned!
