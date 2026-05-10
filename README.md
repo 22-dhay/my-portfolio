@@ -55,7 +55,34 @@ I’m passionate about using AI and data to build practical solutions, automate 
 
 # 🚀 Featured Projects
 
+
+
 ---
+
+## 🤖 AI Workflow Automation Assistant
+
+### 📌 Overview
+AI automation project focused on building intelligent workflow systems that automate repetitive business and administrative tasks using AI tools and LLM concepts.
+
+### ⚙️ Technologies & Concepts
+- AI Automation
+- Prompt Engineering
+- LLM Applications
+- Workflow Systems
+- Python
+
+### 🎯 Key Highlights
+- Designed AI-powered workflow automation concepts.
+- Explored AI agents and intelligent task automation.
+- Built productivity-focused automation workflows.
+
+🔗 **Project Repository:**  
+[View Project](YOUR_PROJECT_LINK)
+
+---
+
+---
+
 
 ## 🧠 Automated Detection of Visual Pollution Using Drones
 
@@ -128,28 +155,6 @@ Machine learning project focused on predicting customer churn using classificati
 
 🔗 **Project Repository:**  
 [View Project](projects/data-analysis/project2/customer-churn-analysis/README.md)
-
----
-
-## 🤖 AI Workflow Automation Assistant
-
-### 📌 Overview
-AI automation project focused on building intelligent workflow systems that automate repetitive business and administrative tasks using AI tools and LLM concepts.
-
-### ⚙️ Technologies & Concepts
-- AI Automation
-- Prompt Engineering
-- LLM Applications
-- Workflow Systems
-- Python
-
-### 🎯 Key Highlights
-- Designed AI-powered workflow automation concepts.
-- Explored AI agents and intelligent task automation.
-- Built productivity-focused automation workflows.
-
-🔗 **Project Repository:**  
-[View Project](YOUR_PROJECT_LINK)
 
 ---
 
