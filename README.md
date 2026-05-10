@@ -140,15 +140,11 @@ AI automation project focused on building intelligent workflow systems that auto
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=22-dhay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22-dhay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</p>
+- GitHub Profile: [22-dhay](https://github.com/22-dhay)
+- Portfolio Repository: [my-portfolio](https://github.com/22-dhay/my-portfolio)
+- Focus Areas: AI, Machine Learning, Data Analytics, Computer Vision, Automation
 
 ---
 
