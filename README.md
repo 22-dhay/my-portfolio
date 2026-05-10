@@ -65,7 +65,7 @@ AI-powered computer vision system designed to detect and classify visual polluti
 - Achieved strong classification performance using transfer learning.
 
 🔗 **Project Repository:**  
-[View Project](YOUR_PROJECT_LINK)
+[View Project](projects/ai/project1/README.md)
 
 ---
 
