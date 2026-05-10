@@ -34,7 +34,7 @@ The assistant allows users to paste meeting notes, requests, or business message
 
 # 📷 Project Preview
 
-<img width="100%" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1600&auto=format&fit=crop"/>
+<img width="100%" src="ai-workflow-preview.png"/>
 
 ---
 
