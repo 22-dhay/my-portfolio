@@ -114,7 +114,7 @@ Machine learning project focused on predicting customer churn using classificati
 - Prepared deployment-ready preprocessing objects.
 
 🔗 **Project Repository:**  
-[View Project](YOUR_PROJECT_LINK)
+[View Project](projects/data-analysis/project2/customer-churn-analysis/README.md)
 
 ---
 
