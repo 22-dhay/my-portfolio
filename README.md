@@ -92,7 +92,7 @@ Exploratory data analysis project focused on Fitbit smart device data to identif
 - Target sedentary users with personalized wellness content.
 
 🔗 **Project PDF / Dashboard:**  
-[View Project](YOUR_PROJECT_LINK)
+[View Project](projects/data-analysis/project2/README.md)
 
 ---
 
