@@ -77,7 +77,7 @@ AI automation project focused on building intelligent workflow systems that auto
 - Built productivity-focused automation workflows.
 
 🔗 **Project Repository:**  
-[View Project](YOUR_PROJECT_LINK)
+[View Project](ai-workflow-automation-assistant/README.md)
 
 ---
 
